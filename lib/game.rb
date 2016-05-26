@@ -1,4 +1,3 @@
-require_relative 'player.rb'
 require_relative 'party.rb'
 require_relative 'board.rb'
 require_relative 'user_interface.rb'

@@ -1,6 +1,4 @@
-require_relative '../lib/captains_mistress.rb'
-require_relative '../lib/captains_mistress/components/board.rb'
-require_relative '../lib/captains_mistress/components/tile.rb'
+require_relative '../lib/board.rb'
 
 describe "Board" do
   before :each do
